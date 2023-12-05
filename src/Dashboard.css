@@ -1,0 +1,19 @@
+
+.txt{
+    font-style: italic;
+    color:blue;
+} 
+.about{
+    text-align: center;
+    color: blue;
+}
+.wel{
+    margin-left: 350px;
+    margin-right: 350px;
+    background-color: paleturquoise;
+    font-family: 'Times New Roman', Times, serif;
+}
+.well{
+    margin-left: 350px;
+    margin-right: 350px;
+color: goldenrod;}
